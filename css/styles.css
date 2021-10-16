@@ -28,7 +28,7 @@ img {
 
 .container {
   padding: 20px;
-  dislay: flex;
+  display: flex;
   flex-direction: row;
 }
 
@@ -70,7 +70,7 @@ button {
   background-color: transparent;
   color: white;
   cursor: pointer;
-  transition: all 0.4s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .sedans > button {
