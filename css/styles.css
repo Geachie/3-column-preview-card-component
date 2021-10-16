@@ -40,7 +40,7 @@ img {
   margin-bottom: 20px;
 }
 
- p {
+p {
   padding-bottom: 20px;
   line-height: 1.6;
 }
@@ -52,7 +52,6 @@ img {
 
 .suvs {
   background-color: hsl(184, 100%, 22%);
-
 }
 
 .luxury {
@@ -64,7 +63,7 @@ button {
   font-size: 15px;
   padding: 10px 15px 10px 15px;
   border-radius: 50px;
-  border: 2px solid hsla(0, 0%, 100%, 0.75);
+  border: 1px solid hsla(0, 0%, 100%, 0.75);
 }
 
 .btn:hover {
@@ -86,15 +85,15 @@ button {
   color: hsl(179, 100%, 13%);
 }
 
-
 .attribution {
-  font-size: 11px; text-align: center;
+  font-size: 11px;
+  text-align: center;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 992px){
+@media (min-width: 992px) {
   .container {
     display: flex;
     align-items: center;
@@ -112,6 +111,5 @@ button {
 
   .card {
     padding: 45px;
-
   }
 }
